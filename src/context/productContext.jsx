@@ -1,0 +1,3 @@
+export const SET_PRODUCTS = "SET_PRODUCTS";
+export const VIEW_PRODUCT = "VIEW_PRODUCT";
+export const REMOVE_PRODUCT = "REMOVE_PRODUCT";
